@@ -79,5 +79,5 @@ F --> G
 ```
 
 ### 👨‍💻 Contributors
--SHUBHAM RATHOD
-_SHAIKH RIZWAN
+- SHUBHAM RATHOD
+- SHAIKH RIZWAN
