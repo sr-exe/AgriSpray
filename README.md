@@ -2,6 +2,8 @@
 
 <p align="center">
   Smart Pesticide Spraying System for Precision Agriculture
+
+  FILES UPLOADINNG SOON
 </p>
 
 <p align="center">
